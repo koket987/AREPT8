@@ -1,4 +1,4 @@
-from tkinter import Image
+
 from typing import Literal
 
 import bs4
